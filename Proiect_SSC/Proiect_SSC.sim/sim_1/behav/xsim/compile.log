@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/SPI_master.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SPI_master'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/displ7seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'displ7seg'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/mod_accelerometer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mod_accelerometer'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'main'

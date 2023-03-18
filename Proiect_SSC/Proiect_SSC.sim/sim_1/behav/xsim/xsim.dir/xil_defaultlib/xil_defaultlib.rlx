@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/SPI_ctrl.vhd,1673457667,vhdl,D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/accel_mod.vhd,,,spi_ctrl,,,,,,,,
+D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/SPI_master.vhd,1673547119,vhdl,D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/mod_accelerometer.vhd,,,spi_master,,,,,,,,
+D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/accel_mod.vhd,1673459552,vhdl,D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/main.vhd,,,accel_mod,,,,,,,,
+D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/clk_divider.vhd,1670013688,vhdl,D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/main.vhd,,,clk_divider,,,,,,,,
+D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/debounce.vhd,1673376985,vhdl,D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/main.vhd,,,debounce,,,,,,,,
+D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/displ7seg.vhd,1673542862,vhdl,D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/main.vhd,,,displ7seg,,,,,,,,
+D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/main.vhd,1673437164,vhdl,,,,main,,,,,,,,
+D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/mod_accelerometer.vhd,1673554932,vhdl,D:/Universitate/Xilinx/Vivado/Projects/Proiect_SSC/Proiect_SSC.srcs/sources_1/new/main.vhd,,,mod_accelerometer,,,,,,,,
